@@ -1,0 +1,8 @@
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\bin\Debug\netcoreapp3.1\CCSS.CORE.DTO.deps.json
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\bin\Debug\netcoreapp3.1\CCSS.CORE.DTO.dll
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\bin\Debug\netcoreapp3.1\CCSS.CORE.DTO.pdb
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\obj\Debug\netcoreapp3.1\CCSS.CORE.DTO.csprojAssemblyReference.cache
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\obj\Debug\netcoreapp3.1\CCSS.CORE.DTO.AssemblyInfoInputs.cache
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\obj\Debug\netcoreapp3.1\CCSS.CORE.DTO.AssemblyInfo.cs
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\obj\Debug\netcoreapp3.1\CCSS.CORE.DTO.dll
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.DTO\obj\Debug\netcoreapp3.1\CCSS.CORE.DTO.pdb

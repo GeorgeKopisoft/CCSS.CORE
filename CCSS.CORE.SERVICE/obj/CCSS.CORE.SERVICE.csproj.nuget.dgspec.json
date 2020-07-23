@@ -1,0 +1,249 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.SERVICE\\CCSS.CORE.SERVICE.csproj": {}
+  },
+  "projects": {
+    "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.MODEL\\CCSS.CORE.MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.MODEL\\CCSS.CORE.MODEL.csproj",
+        "projectName": "CCSS.CORE.MODEL",
+        "projectPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.MODEL\\CCSS.CORE.MODEL.csproj",
+        "packagesPath": "C:\\Users\\GEORGE-G7\\.nuget\\packages\\",
+        "outputPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.MODEL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GEORGE-G7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.REPOSITORY\\CCSS.CORE.REPOSITORY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.REPOSITORY\\CCSS.CORE.REPOSITORY.csproj",
+        "projectName": "CCSS.CORE.REPOSITORY",
+        "projectPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.REPOSITORY\\CCSS.CORE.REPOSITORY.csproj",
+        "packagesPath": "C:\\Users\\GEORGE-G7\\.nuget\\packages\\",
+        "outputPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.REPOSITORY\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GEORGE-G7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.MODEL\\CCSS.CORE.MODEL.csproj": {
+                "projectPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.MODEL\\CCSS.CORE.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.SERVICE\\CCSS.CORE.SERVICE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.SERVICE\\CCSS.CORE.SERVICE.csproj",
+        "projectName": "CCSS.CORE.SERVICE",
+        "projectPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.SERVICE\\CCSS.CORE.SERVICE.csproj",
+        "packagesPath": "C:\\Users\\GEORGE-G7\\.nuget\\packages\\",
+        "outputPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.SERVICE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GEORGE-G7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.REPOSITORY\\CCSS.CORE.REPOSITORY.csproj": {
+                "projectPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.REPOSITORY\\CCSS.CORE.REPOSITORY.csproj"
+              },
+              "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.UTILS\\CCSS.CORE.UTILS.csproj": {
+                "projectPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.UTILS\\CCSS.CORE.UTILS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.UTILS\\CCSS.CORE.UTILS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.UTILS\\CCSS.CORE.UTILS.csproj",
+        "projectName": "CCSS.CORE.UTILS",
+        "projectPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.UTILS\\CCSS.CORE.UTILS.csproj",
+        "packagesPath": "C:\\Users\\GEORGE-G7\\.nuget\\packages\\",
+        "outputPath": "D:\\DocumentosExternos\\JorgePacheco\\CCSS_project\\CCSS.CORE\\CCSS.CORE.UTILS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GEORGE-G7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.deps.json
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.dll
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.pdb
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.MODEL.dll
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.REPOSITORY.dll
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.REPOSITORY.pdb
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.MODEL.pdb
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\obj\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.csprojAssemblyReference.cache
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\obj\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.AssemblyInfoInputs.cache
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\obj\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.AssemblyInfo.cs
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\obj\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.csproj.CopyComplete
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\obj\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.dll
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\obj\Debug\netcoreapp3.1\CCSS.CORE.SERVICE.pdb
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.UTILS.dll
+D:\DocumentosExternos\JorgePacheco\CCSS_project\CCSS.CORE\CCSS.CORE.SERVICE\bin\Debug\netcoreapp3.1\CCSS.CORE.UTILS.pdb
